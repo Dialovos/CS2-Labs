@@ -1,0 +1,14 @@
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\bin\Debug\net8.0\StringManipulationLab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\bin\Debug\net8.0\StringManipulationLab.deps.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\bin\Debug\net8.0\StringManipulationLab.runtimeconfig.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\bin\Debug\net8.0\StringManipulationLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\bin\Debug\net8.0\StringManipulationLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\StringManipulationLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\StringManipulationLab.AssemblyInfoInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\StringManipulationLab.AssemblyInfo.cs
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\StringManipulationLab.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\StringManipulationLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\refint\StringManipulationLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\StringManipulationLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\StringManipulationLab.genruntimeconfig.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\StringManipulationLab\obj\Debug\net8.0\ref\StringManipulationLab.dll

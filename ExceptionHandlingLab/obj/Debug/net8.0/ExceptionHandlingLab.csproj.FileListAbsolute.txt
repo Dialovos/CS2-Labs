@@ -1,0 +1,14 @@
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\ExceptionHandlingLab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\ExceptionHandlingLab.deps.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\ExceptionHandlingLab.runtimeconfig.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\ExceptionHandlingLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\ExceptionHandlingLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ExceptionHandlingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ExceptionHandlingLab.AssemblyInfoInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ExceptionHandlingLab.AssemblyInfo.cs
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ExceptionHandlingLab.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ExceptionHandlingLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\refint\ExceptionHandlingLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ExceptionHandlingLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ExceptionHandlingLab.genruntimeconfig.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\obj\Debug\net8.0\ref\ExceptionHandlingLab.dll

@@ -1,0 +1,123 @@
+2025-04-27 14:57:22 | ERROR | FileNotFoundException | Attempted to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:06:26 | ERROR | FileNotFoundException | Attempted to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:09:24 | ERROR | FileNotFoundException | Attempted to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:10:24 | ERROR | FileNotFoundException | Attempted to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:11:05 | ERROR | FileNotFoundException | Attempted to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:13:49 | ERROR | FileNotFoundException | Trying to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:14:56 | ERROR | FileNotFoundException | Trying to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:16:24 | ERROR | FileNotFoundException | Trying to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:17:32 | ERROR | FileNotFoundException | Trying to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:20:35 | ERROR | FileNotFoundException | Trying to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:21:35 | ERROR | FileNotFoundException | Trying to read file: another_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\another_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:23:19 | ERROR | FileNotFoundException | Trying to read file: 2nd_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+2025-04-27 15:24:53 | ERROR | FileNotFoundException | Trying to read file: 2nd_non_existent_file.txt | Message: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.
+StackTrace:    at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at ExceptionHandlingLab.LoggingFileReader.ReadFile(String filePath) in C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\LoggingFileReader.cs:line 24
+---
+4/27/2025 3:28:46 PM: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.
+4/27/2025 3:30:05 PM: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.
+4/27/2025 3:30:59 PM: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.
+4/27/2025 3:32:14 PM: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.
+4/27/2025 3:32:53 PM: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.
+4/27/2025 3:33:13 PM: Could not find file 'C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\ExceptionHandlingLab\bin\Debug\net8.0\2nd_non_existent_file.txt'.

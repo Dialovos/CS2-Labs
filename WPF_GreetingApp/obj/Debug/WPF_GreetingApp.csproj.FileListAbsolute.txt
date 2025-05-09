@@ -1,0 +1,15 @@
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\bin\Debug\WPF_GreetingApp.exe.config
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\bin\Debug\WPF_GreetingApp.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\bin\Debug\WPF_GreetingApp.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp.csproj.AssemblyReference.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\MainWindow.g.cs
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\App.g.cs
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp_MarkupCompile.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp_MarkupCompile.lref
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\MainWindow.baml
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp.g.resources
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp.Properties.Resources.resources
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp.csproj.GenerateResource.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\WPF_GreetingApp\obj\Debug\WPF_GreetingApp.pdb

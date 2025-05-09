@@ -1,0 +1,14 @@
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\bin\Debug\net8.0\FileOperationsLab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\bin\Debug\net8.0\FileOperationsLab.deps.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\bin\Debug\net8.0\FileOperationsLab.runtimeconfig.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\bin\Debug\net8.0\FileOperationsLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\bin\Debug\net8.0\FileOperationsLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\FileOperationsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\FileOperationsLab.AssemblyInfoInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\FileOperationsLab.AssemblyInfo.cs
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\FileOperationsLab.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\FileOperationsLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\refint\FileOperationsLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\FileOperationsLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\FileOperationsLab.genruntimeconfig.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\FileOperationsLab\obj\Debug\net8.0\ref\FileOperationsLab.dll

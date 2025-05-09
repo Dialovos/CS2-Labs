@@ -1,0 +1,10 @@
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\bin\Debug\SQLAndLINQLab.exe.config
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\bin\Debug\SQLAndLINQLab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\bin\Debug\SQLAndLINQLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\obj\Debug\SQLAndLINQLab.csproj.AssemblyReference.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\obj\Debug\SQLAndLINQLab.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\obj\Debug\SQLAndLI.9C7876E2.Up2Date
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\obj\Debug\SQLAndLINQLab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SQLAndLINQLab\obj\Debug\SQLAndLINQLab.pdb

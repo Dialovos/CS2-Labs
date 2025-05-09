@@ -1,0 +1,10 @@
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\bin\Debug\SimpleGUILab.exe.config
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\bin\Debug\SimpleGUILab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\bin\Debug\SimpleGUILab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\obj\Debug\SimpleGUILab.csproj.AssemblyReference.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\obj\Debug\SimpleGUILab.Form1.resources
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\obj\Debug\SimpleGUILab.Properties.Resources.resources
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\obj\Debug\SimpleGUILab.csproj.GenerateResource.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\obj\Debug\SimpleGUILab.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\obj\Debug\SimpleGUILab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\SimpleGUILab\obj\Debug\SimpleGUILab.pdb

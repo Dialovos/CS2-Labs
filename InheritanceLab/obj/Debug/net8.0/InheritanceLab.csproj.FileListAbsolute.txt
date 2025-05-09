@@ -1,0 +1,14 @@
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\bin\Debug\net8.0\InheritanceLab.exe
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\bin\Debug\net8.0\InheritanceLab.deps.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\bin\Debug\net8.0\InheritanceLab.runtimeconfig.json
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\bin\Debug\net8.0\InheritanceLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\bin\Debug\net8.0\InheritanceLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\InheritanceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\InheritanceLab.AssemblyInfoInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\InheritanceLab.AssemblyInfo.cs
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\InheritanceLab.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\InheritanceLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\refint\InheritanceLab.dll
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\InheritanceLab.pdb
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\InheritanceLab.genruntimeconfig.cache
+C:\Users\Hoang\OneDrive\Documents\College Class\Spring Class 2025\CS2\CS2 Labs\InheritanceLab\obj\Debug\net8.0\ref\InheritanceLab.dll

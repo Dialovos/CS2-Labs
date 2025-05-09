@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StringManipulationLab/1.0.0": {
+        "runtime": {
+          "StringManipulationLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringManipulationLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

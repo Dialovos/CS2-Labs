@@ -1,0 +1,797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A382326-197B-43D2-B64C-6BD31B7E9716}|SQLAndLINQLab\\SQLAndLINQLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\sqlandlinqlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A382326-197B-43D2-B64C-6BD31B7E9716}|SQLAndLINQLab\\SQLAndLINQLab.csproj|solutionrelative:sqlandlinqlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A382326-197B-43D2-B64C-6BD31B7E9716}|SQLAndLINQLab\\SQLAndLINQLab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\sqlandlinqlab\\resettingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A382326-197B-43D2-B64C-6BD31B7E9716}|SQLAndLINQLab\\SQLAndLINQLab.csproj|solutionrelative:sqlandlinqlab\\resettingdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A382326-197B-43D2-B64C-6BD31B7E9716}|SQLAndLINQLab\\SQLAndLINQLab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\sqlandlinqlab\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A382326-197B-43D2-B64C-6BD31B7E9716}|SQLAndLINQLab\\SQLAndLINQLab.csproj|solutionrelative:sqlandlinqlab\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\advancedguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|solutionrelative:advancedguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\advancedguilab\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|solutionrelative:advancedguilab\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\advancedguilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|solutionrelative:advancedguilab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\advancedguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|solutionrelative:advancedguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\advancedguilab\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A4268F-1535-4680-8A71-D233596AE5F4}|AdvancedGUILab\\AdvancedGUILab.csproj|solutionrelative:advancedguilab\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A84A2-87DA-4954-BEA1-3DF414A694E2}|SimpleGUILab\\SimpleGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\simpleguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A84A2-87DA-4954-BEA1-3DF414A694E2}|SimpleGUILab\\SimpleGUILab.csproj|solutionrelative:simpleguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A84A2-87DA-4954-BEA1-3DF414A694E2}|SimpleGUILab\\SimpleGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\simpleguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D05A84A2-87DA-4954-BEA1-3DF414A694E2}|SimpleGUILab\\SimpleGUILab.csproj|solutionrelative:simpleguilab\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A280D0-0A9C-45B4-8BB7-D772BF2C5C82}|WPF_GreetingApp\\WPF_GreetingApp.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\wpf_greetingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34A280D0-0A9C-45B4-8BB7-D772BF2C5C82}|WPF_GreetingApp\\WPF_GreetingApp.csproj|solutionrelative:wpf_greetingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A84A2-87DA-4954-BEA1-3DF414A694E2}|SimpleGUILab\\SimpleGUILab.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\simpleguilab\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A84A2-87DA-4954-BEA1-3DF414A694E2}|SimpleGUILab\\SimpleGUILab.csproj|solutionrelative:simpleguilab\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A280D0-0A9C-45B4-8BB7-D772BF2C5C82}|WPF_GreetingApp\\WPF_GreetingApp.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\wpf_greetingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A280D0-0A9C-45B4-8BB7-D772BF2C5C82}|WPF_GreetingApp\\WPF_GreetingApp.csproj|solutionrelative:wpf_greetingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A280D0-0A9C-45B4-8BB7-D772BF2C5C82}|WPF_GreetingApp\\WPF_GreetingApp.csproj|C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\wpf_greetingapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34A280D0-0A9C-45B4-8BB7-D772BF2C5C82}|WPF_GreetingApp\\WPF_GreetingApp.csproj|solutionrelative:wpf_greetingapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\fileoperationslab\\part 3\\filepathinfoprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|solutionrelative:fileoperationslab\\part 3\\filepathinfoprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\fileoperationslab\\part 3\\safefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|solutionrelative:fileoperationslab\\part 3\\safefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\fileoperationslab\\part 4\\pathnormalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|solutionrelative:fileoperationslab\\part 4\\pathnormalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\fileoperationslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|solutionrelative:fileoperationslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\fileoperationslab\\part 1\\textfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|solutionrelative:fileoperationslab\\part 1\\textfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\fileoperationslab\\part 2\\binaryfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB387A32-0413-44B4-89C9-30FECF14A242}|FileOperationsLab\\FileOperationsLab.csproj|solutionrelative:fileoperationslab\\part 2\\binaryfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\exceptionhandlinglab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|solutionrelative:exceptionhandlinglab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\exceptionhandlinglab\\part2\\gradevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|solutionrelative:exceptionhandlinglab\\part2\\gradevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\exceptionhandlinglab\\loggingfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|solutionrelative:exceptionhandlinglab\\loggingfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\exceptionhandlinglab\\part1\\arrayaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|solutionrelative:exceptionhandlinglab\\part1\\arrayaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\exceptionhandlinglab\\part1\\divisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|solutionrelative:exceptionhandlinglab\\part1\\divisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\exceptionhandlinglab\\exceptionhandlinglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CE0C3FE-F52B-4905-93A3-B4F697A3E0B3}|ExceptionHandlingLab\\ExceptionHandlingLab.csproj|solutionrelative:exceptionhandlinglab\\exceptionhandlinglab.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\inheritancelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|solutionrelative:inheritancelab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\sorter\\quicksortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\sorter\\quicksortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\sorter\\bubblesortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\sorter\\bubblesortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\printer\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\printer\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\printer\\printeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\printer\\printeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\printer\\oldprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\printer\\oldprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\shapefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part3\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part3\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part3\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part3\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\sorter\\sortingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\sorter\\sortingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part4\\sorter\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part4\\sorter\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part3\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part3\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part3\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part3\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\polymorphismlab\\part2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785B5A67-8A42-4785-A5D0-EF18FADA8B35}|PolymorphismLab\\PolymorphismLab.csproj|solutionrelative:polymorphismlab\\part2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\inheritancelab\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|solutionrelative:inheritancelab\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\inheritancelab\\zooanimal-childofchild\\salamander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|solutionrelative:inheritancelab\\zooanimal-childofchild\\salamander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|c:\\users\\hoang\\onedrive\\documents\\college class\\spring class 2025\\cs2\\cs2 labs\\inheritancelab\\zooanimal-childofchild\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB83ADD-F108-4801-9809-119111905120}|InheritanceLab\\InheritanceLab.csproj|solutionrelative:inheritancelab\\zooanimal-childofchild\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResettingDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SQLAndLINQLab\\ResettingDatabase.cs",
+              "RelativeDocumentMoniker": "SQLAndLINQLab\\ResettingDatabase.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SQLAndLINQLab\\ResettingDatabase.cs",
+              "RelativeToolTip": "SQLAndLINQLab\\ResettingDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:50:27.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SQLAndLINQLab\\Student.cs",
+              "RelativeDocumentMoniker": "SQLAndLINQLab\\Student.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SQLAndLINQLab\\Student.cs",
+              "RelativeToolTip": "SQLAndLINQLab\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T23:03:29.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SQLAndLINQLab\\Program.cs",
+              "RelativeDocumentMoniker": "SQLAndLINQLab\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SQLAndLINQLab\\Program.cs",
+              "RelativeToolTip": "SQLAndLINQLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:49:29.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedGUILab\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Program.cs",
+              "RelativeToolTip": "AdvancedGUILab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T20:00:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AdvancedGUILab\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Form1.Designer.cs",
+              "RelativeToolTip": "AdvancedGUILab\\Form1.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:37:03.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Form1.cs",
+              "RelativeDocumentMoniker": "AdvancedGUILab\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Form1.cs",
+              "RelativeToolTip": "AdvancedGUILab\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:35:25.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Student.cs",
+              "RelativeDocumentMoniker": "AdvancedGUILab\\Student.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Student.cs",
+              "RelativeToolTip": "AdvancedGUILab\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:29:18.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Form1.cs",
+              "RelativeDocumentMoniker": "AdvancedGUILab\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\AdvancedGUILab\\Form1.cs [Design]",
+              "RelativeToolTip": "AdvancedGUILab\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T18:28:32.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SimpleGUILab\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleGUILab\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SimpleGUILab\\Form1.cs [Design]",
+              "RelativeToolTip": "SimpleGUILab\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:41:15.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SimpleGUILab\\Form1.cs",
+              "RelativeDocumentMoniker": "SimpleGUILab\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SimpleGUILab\\Form1.cs",
+              "RelativeToolTip": "SimpleGUILab\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:33:39.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SimpleGUILab\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SimpleGUILab\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\SimpleGUILab\\Form1.Designer.cs",
+              "RelativeToolTip": "SimpleGUILab\\Form1.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAxwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T16:33:26.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\WPF_GreetingApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_GreetingApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\WPF_GreetingApp\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_GreetingApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T17:20:35.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\WPF_GreetingApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_GreetingApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\WPF_GreetingApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_GreetingApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wBwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:20:34.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\WPF_GreetingApp\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_GreetingApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\WPF_GreetingApp\\App.xaml",
+              "RelativeToolTip": "WPF_GreetingApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T17:27:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PathNormalizer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 4\\PathNormalizer.cs",
+              "RelativeDocumentMoniker": "FileOperationsLab\\Part 4\\PathNormalizer.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 4\\PathNormalizer.cs",
+              "RelativeToolTip": "FileOperationsLab\\Part 4\\PathNormalizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:48:08.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SafeFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 3\\SafeFileReader.cs",
+              "RelativeDocumentMoniker": "FileOperationsLab\\Part 3\\SafeFileReader.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 3\\SafeFileReader.cs",
+              "RelativeToolTip": "FileOperationsLab\\Part 3\\SafeFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:47:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FilePathInfoPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 3\\FilePathInfoPrinter.cs",
+              "RelativeDocumentMoniker": "FileOperationsLab\\Part 3\\FilePathInfoPrinter.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 3\\FilePathInfoPrinter.cs",
+              "RelativeToolTip": "FileOperationsLab\\Part 3\\FilePathInfoPrinter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:46:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BinaryFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 2\\BinaryFileHandler.cs",
+              "RelativeDocumentMoniker": "FileOperationsLab\\Part 2\\BinaryFileHandler.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 2\\BinaryFileHandler.cs",
+              "RelativeToolTip": "FileOperationsLab\\Part 2\\BinaryFileHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:45:34.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TextFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 1\\TextFileHandler.cs",
+              "RelativeDocumentMoniker": "FileOperationsLab\\Part 1\\TextFileHandler.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Part 1\\TextFileHandler.cs",
+              "RelativeToolTip": "FileOperationsLab\\Part 1\\TextFileHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:44:42.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Program.cs",
+              "RelativeDocumentMoniker": "FileOperationsLab\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\FileOperationsLab\\Program.cs",
+              "RelativeToolTip": "FileOperationsLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T19:42:52.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingLab\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Program.cs",
+              "RelativeToolTip": "ExceptionHandlingLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T22:31:19.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ArrayAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Part1\\ArrayAccessor.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingLab\\Part1\\ArrayAccessor.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Part1\\ArrayAccessor.cs",
+              "RelativeToolTip": "ExceptionHandlingLab\\Part1\\ArrayAccessor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:15:31.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoggingFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\LoggingFileReader.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingLab\\LoggingFileReader.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\LoggingFileReader.cs",
+              "RelativeToolTip": "ExceptionHandlingLab\\LoggingFileReader.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:17:41.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GradeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Part2\\GradeValidator.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingLab\\Part2\\GradeValidator.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Part2\\GradeValidator.cs",
+              "RelativeToolTip": "ExceptionHandlingLab\\Part2\\GradeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:17:08.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DivisionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Part1\\DivisionHandler.cs",
+              "RelativeDocumentMoniker": "ExceptionHandlingLab\\Part1\\DivisionHandler.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\Part1\\DivisionHandler.cs",
+              "RelativeToolTip": "ExceptionHandlingLab\\Part1\\DivisionHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:15:09.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionHandlingLab.csproj",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\ExceptionHandlingLab.csproj",
+              "RelativeDocumentMoniker": "ExceptionHandlingLab\\ExceptionHandlingLab.csproj",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\ExceptionHandlingLab\\ExceptionHandlingLab.csproj",
+              "RelativeToolTip": "ExceptionHandlingLab\\ExceptionHandlingLab.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T00:13:14.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Program.cs",
+              "RelativeToolTip": "PolymorphismLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T23:06:26.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\Dog.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part3\\Dog.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\Dog.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part3\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:42:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\Cat.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part3\\Cat.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\Cat.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part3\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:42:58.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OldPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Printer\\OldPrinter.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\Printer\\OldPrinter.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Printer\\OldPrinter.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\Printer\\OldPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:14:56.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PrinterAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Printer\\PrinterAdapter.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\Printer\\PrinterAdapter.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Printer\\PrinterAdapter.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\Printer\\PrinterAdapter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:23:53.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BubbleSortStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\BubbleSortStrategy.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\Sorter\\BubbleSortStrategy.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\BubbleSortStrategy.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\Sorter\\BubbleSortStrategy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:07:41.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceLab\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\Program.cs",
+              "RelativeToolTip": "InheritanceLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:22:14.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QuickSortStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\QuickSortStrategy.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\Sorter\\QuickSortStrategy.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\QuickSortStrategy.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\Sorter\\QuickSortStrategy.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:17:06.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShapeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\ShapeFactory.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\ShapeFactory.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\ShapeFactory.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\ShapeFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:57:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part1\\Calculator.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part1\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part1\\Calculator.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part1\\Calculator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:42:20.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Printer\\Printer.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\Printer\\Printer.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Printer\\Printer.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\Printer\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:21:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SortingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\SortingStrategy.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\Sorter\\SortingStrategy.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\SortingStrategy.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\Sorter\\SortingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:04:31.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Sorter.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\Sorter.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part4\\Sorter\\Sorter.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part4\\Sorter\\Sorter.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part4\\Sorter\\Sorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:16:45.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "PolymorphismLab\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\ClassDiagram1.cd",
+              "RelativeToolTip": "PolymorphismLab\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-04-16T20:50:30.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\Animal.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part3\\Animal.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\Animal.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part3\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:18:14.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\IMovable.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part3\\IMovable.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part3\\IMovable.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part3\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:42:37.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part2\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part2\\Rectangle.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part2\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:14:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part2\\Circle.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part2\\Circle.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part2\\Circle.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part2\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:00:28.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part2\\Shape.cs",
+              "RelativeDocumentMoniker": "PolymorphismLab\\Part2\\Shape.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\PolymorphismLab\\Part2\\Shape.cs",
+              "RelativeToolTip": "PolymorphismLab\\Part2\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:51:01.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "InheritanceLab\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\ClassDiagram1.cd",
+              "RelativeToolTip": "InheritanceLab\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-04-09T22:08:57.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Salamander.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\ZooAnimal-ChildOfChild\\Salamander.cs",
+              "RelativeDocumentMoniker": "InheritanceLab\\ZooAnimal-ChildOfChild\\Salamander.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\ZooAnimal-ChildOfChild\\Salamander.cs",
+              "RelativeToolTip": "InheritanceLab\\ZooAnimal-ChildOfChild\\Salamander.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:15:47.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\ZooAnimal-ChildOfChild\\Lion.cs",
+              "RelativeDocumentMoniker": "InheritanceLab\\ZooAnimal-ChildOfChild\\Lion.cs",
+              "ToolTip": "C:\\Users\\Hoang\\OneDrive\\Documents\\College Class\\Spring Class 2025\\CS2\\CS2 Labs\\InheritanceLab\\ZooAnimal-ChildOfChild\\Lion.cs",
+              "RelativeToolTip": "InheritanceLab\\ZooAnimal-ChildOfChild\\Lion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:12:04.088Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
